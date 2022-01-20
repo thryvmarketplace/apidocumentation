@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Thryv's App Marketplace API Documentation
 
-You can use the [editor on GitHub](https://github.com/thryvmarketplace/apidocumentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will contain all the information related to our API documentation, additionally, you can find our swagger file here: https://api.thryv.com/docs.
 
 ### Markdown
 
